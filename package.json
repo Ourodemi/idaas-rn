@@ -1,0 +1,11 @@
+{
+  "name": "@ourodemi/idaas-rn",
+  "version": "1.0.0",
+  "description": "A React Native implementation for Ourodemi IDaaS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ourodemi",
+  "license": "MIT"
+}
