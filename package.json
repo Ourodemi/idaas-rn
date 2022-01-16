@@ -6,13 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "files":[
+  "files": [
     "dist/*",
     "src/*",
     "index.d.ts",
     "index.js"
   ],
-  "homepage":"https://github.com/Ourodemi/idaas-rn",
+  "homepage": "https://github.com/Ourodemi/idaas-rn",
   "author": "Ourodemi",
   "license": "MIT",
   "devDependencies": {
@@ -21,6 +21,7 @@
     "@babel/plugin-proposal-class-properties": "^7.16.7"
   },
   "dependencies": {
-    "axios": "^0.24.0"
+    "axios": "^0.24.0",
+    "expo-secure-store": "^11.1.0"
   }
 }
